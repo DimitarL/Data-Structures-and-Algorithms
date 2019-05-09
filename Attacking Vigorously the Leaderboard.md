@@ -46,7 +46,7 @@ no
 
 - Sample Input 1
 
-16
+16                                                                                                                                        
 add 8.43
 add 5.83
 add 7.66
